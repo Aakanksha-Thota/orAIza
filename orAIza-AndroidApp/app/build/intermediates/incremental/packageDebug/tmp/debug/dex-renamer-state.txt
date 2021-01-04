@@ -1,0 +1,4 @@
+#Mon Jan 04 18:38:25 IST 2021
+base.0=C\:\\Users\\THOTA\\Documents\\orAIza\\orAIza-AndroidApp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
