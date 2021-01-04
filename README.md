@@ -21,8 +21,8 @@ This project was created under the Deloitte TechnoUtsav3.0 TechE contest.
 
 # Authors
 
-Manikanta Varaganti - Initial work - orAIza
+<a href="https://github.com/m2i101"><b>Manikanta Varaganti </a>- Initial work 
 
-Aakanksha Thota - Initial work - orAIza
+<a href="https://github.com/Aakanksha-Thota/"><b>Aakanksha Thota</a> - Initial work 
 
-Sai Santhosh Belide - Initial work - orAIza
+<a href="https://github.com/saisanthosh1299/"><b>Sai Santhosh Belide</a> - Initial work 
